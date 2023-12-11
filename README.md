@@ -19,3 +19,7 @@ There are no characters in this string that do not repeat.
 'actcay' => 't'
 'abcxabc' => 'x'
 'zzywxx' => 'y'
+
+A job challenge that I did for a company in 2023 using Ruby.
+
+Created by [Tiago Zanarde](https://tiagozanarde.dev).
